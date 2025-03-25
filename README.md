@@ -1,8 +1,5 @@
 # DragaoLab
-# Dr. Raimundo Valter
-> 🚀 Pesquisador Inovador em IA na DragãoLAB;
-> 📚 Professor de Ciência da Computação;
-> 🐍 Entusiasta de Python; 
+> 🚀 Laboratório focado em inovações utilizando IA;
 
 <div>
   <a href="https://github.com/DragaoLab">
@@ -12,7 +9,13 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Let-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Let-REDIS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  
+  <img align="center" alt="Let-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Let-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Let-HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Let-CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 
 </div>
   
